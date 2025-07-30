@@ -9,17 +9,17 @@ import UgcGallery from "./components/UgcGallery";
 
 function App() {
   //Instance ID
-  let InstanceId_Widget = "1169819";
-  let InstanceId_QA = "1057790";
-  let InstanceId_SEO = "";
+  let InstanceId_Widget = "1090309";
+  let InstanceId_QA = "";
+  let InstanceId_SEO = "1177868";
   let InstanceId_Carousel = "";
-  let InstanceId_StarRating = "1169820";
+  let InstanceId_StarRating = "1090310";
   let InstanceId_PromotedProd = "";
   let InstanceId_UgcGallery = "";
   let InstanceId_ReviewsTab = "";
 
   //Product ID
-  let ProductId = "SUBARU_Forester";
+  let ProductId = "";
 
   //Clipboard text here.
   let ClipBoardHeading = "Follow these steps to add this";
